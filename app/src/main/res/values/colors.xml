@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores primarios -->
+    <color name="mi_rojo">#FF0000</color>           <!-- Rojo -->
+    <color name="mi_azul">#0000FF</color>           <!-- Azul -->
+    <color name="mi_verde">#00FF00</color>          <!-- Verde -->
+    <color name="mi_amarillo">#FFFF00</color>       <!-- Amarillo -->
+    <color name="mi_negro">#000000</color>          <!-- Negro -->
+    <color name="mi_blanco">#FFFFFF</color>         <!-- Blanco -->
+
+    <!-- Colores secundarios -->
+    <color name="mi_naranja">#FFA500</color>        <!-- Naranja -->
+    <color name="mi_morado">#800080</color>         <!-- Morado -->
+    <color name="mi_rosado">#FFC0CB</color>         <!-- Rosado -->
+    <color name="mi_gris">#808080</color>           <!-- Gris -->
+    <color name="mi_violeta">#EE82EE</color>        <!-- Violeta -->
+    <color name="mi_celeste">#00BFFF</color>        <!-- Celeste -->
+    <color name="mi_café">#8B4513</color>           <!-- Café -->
+
+    <!-- Colores adicionales -->
+    <color name="mi_turquesa">#40E0D0</color>       <!-- Turquesa -->
+    <color name="mi_oliva">#808000</color>          <!-- Oliva -->
+    <color name="mi_dorado">#FFD700</color>         <!-- Dorado -->
+    <color name="mi_plateado">#C0C0C0</color>       <!-- Plateado -->
+    <color name="mi_cian">#00FFFF</color>           <!-- Cian -->
+    <color name="mi_magenta">#FF00FF</color>        <!-- Magenta -->
+    <color name="mi_lima">#00FF00</color>           <!-- Lima -->
+
+</resources>
